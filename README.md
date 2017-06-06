@@ -25,11 +25,10 @@ I'm learning: Front end web development and Ruby on Rails
 
 ## Task Two ##
 
-1. Create a new repository on Github at github.com/yourusername/hellolambdaschool.
+1. Create a new repository on Github at https://github.com/sxfinkel/sxfinkel-hellolambdaschool/.
 
 2. Inside that repository create a file at README.md, and enter the following in that file:
-
-```
+https://github.com/sxfinkel/sxfinkel-hellolambdaschool/blob/master/README.md
 I am learning how to use git at Lambda School's [online code bootcamp](https://lambdaschool.com/mini-bootcamp)
 ```
 
