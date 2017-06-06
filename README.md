@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Susan Barrows
 
-I like to:
+I like to: cook, run, and read historical novels
 
-I'm learning:
+I'm learning: Front end web development and Ruby on Rails
 
 ```
 
